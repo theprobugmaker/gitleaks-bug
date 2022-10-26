@@ -7,5 +7,3 @@ You just have to install `pre-commit` and try to commit, even if the `gitleaks.t
 `pre-commit install`
 
 `git commit -m "something"`
-
-This first commit was created using the `SKIP=gitleaks` environment variable, so it will not fail.
