@@ -1,3 +1,5 @@
-[[rules]]
-[rules.allowlist]
+[extend]
+useDefault = true
+
+[allowlist]
 paths = ['''testdata''', '''.*\/testdata\/.*''']
