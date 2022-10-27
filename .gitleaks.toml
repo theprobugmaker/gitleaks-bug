@@ -1,2 +1,3 @@
-[allowlist]
-paths = ['''testdata''', '''**/testdata/**''', '''.*/testdata/.*''']
+[[rules]]
+[rules.allowlist]
+paths = ['''testdata''', '''.*\/testdata\/.*''']
