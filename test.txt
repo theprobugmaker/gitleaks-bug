@@ -1,0 +1,1 @@
+aws_token := "AKIALALEMEL33243OLIA"
